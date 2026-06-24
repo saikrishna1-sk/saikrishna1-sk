@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI & ML Undergraduate | Aspiring Machine Learning Engineer | Python, SQL, TensorFlow, Keras | Machine Learning & Deep Learning Enthusiast | 180+ LeetCode Problems Solved | Passionate About Building Data-Driven Solutions<br>
+AI & ML Undergraduate | Aspiring Machine Learning Engineer | Python, SQL, TensorFlow, Keras | Machine Learning & Deep Learning Enthusiast | 400+ LeetCode Problems Solved | Passionate About Building Data-Driven Solutions<br>
 
 
 ## 🌐 Socials:
